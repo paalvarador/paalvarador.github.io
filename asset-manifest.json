@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bde4c8f.css",
+    "main.js": "/static/js/main.68b8b06c.js",
+    "static/js/787.56d9acf9.chunk.js": "/static/js/787.56d9acf9.chunk.js",
+    "static/media/CV-Pablo-Alvarado-2023.pdf": "/static/media/CV-Pablo-Alvarado-2023.b58dd443062538c2f3fa.pdf",
+    "static/media/pablo_alvarado_ruiz.png": "/static/media/pablo_alvarado_ruiz.1c4fcd28140f7c12d362.png",
+    "index.html": "/index.html",
+    "main.0bde4c8f.css.map": "/static/css/main.0bde4c8f.css.map",
+    "main.68b8b06c.js.map": "/static/js/main.68b8b06c.js.map",
+    "787.56d9acf9.chunk.js.map": "/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bde4c8f.css",
+    "static/js/main.68b8b06c.js"
+  ]
+}
